@@ -50,7 +50,8 @@ Also i will use my own term here for the time effort estimation
 
 ## ======================================================
 
-1. Ticket #1
+1. 
+Ticket Code: Ticket #1
 Title: create agent_facility table
 
 Blockers: None
@@ -97,7 +98,9 @@ Time effort estimation: 1 Point
 
 ## ======================================================
 
-2. Ticket #2
+2. 
+Ticket Code: Ticket #2
+
 Title: Create CRUD api for adding new record, update, and delete agent_facilities data
 
 Blockers: Ticket #1
@@ -145,7 +148,9 @@ Time effort estimation: 4 Point
 
 ## ======================================================
 
-3. Ticket #3
+3. 
+Ticket Code: Ticket #3
+
 Title: Create api docs for agent facility crud api
 
 Blockers: Ticket #1
@@ -160,7 +165,9 @@ Time effort estimation: 1 Point
 
 ## ======================================================
 
-4. Ticket #4
+4. 
+Ticket Code: Ticket #4
+
 Title: Create CRUD page for agent facility entity
 
 Blockers: Ticket#3
@@ -177,7 +184,9 @@ Tags: #backend
 Time effort estimation: 4 Point
 
 ## ======================================================
-5. Ticket #5
+5. 
+Ticket Code: Ticket #5
+
 Title: Create api get shifts by agent guid
 
 Blockers: Ticket#3
