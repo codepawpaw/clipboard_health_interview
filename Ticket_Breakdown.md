@@ -19,6 +19,7 @@ You will be graded on the level of detail in each ticket, the clarity of the exe
 
 I assume the table structure is like this:
 
+```
 - Facilities
 | id  | name  |
 |---  |------ |
@@ -35,7 +36,7 @@ I assume the table structure is like this:
 |-----|-----------|--------------|--------------------|---------------------|
 |  1  |   1       |     1        | 2022-12-12 12:00:00| 2022-12-12 13:00:00 |
 |  2  |   1       |     2        | 2022-12-12 14:00:00| 2022-12-12 15:00:00 |    
-
+```
 
 1 agent can have 1 or more shift in the different facility
 1 facility can have 1 or more agent
@@ -60,9 +61,11 @@ As an engineer i want to be able put a custom data for each agent that work on a
 Technical Details:
 - Create database migration to create a new table called agent_facilities
 - The structure will be like this:
+```
 | id  | agent_id  | facility_id      | guid  |
 |-----|-----------|------------------|-------|
 |     |           |                  |       |
+```
 
 Column description:
 
